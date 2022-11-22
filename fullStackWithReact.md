@@ -2,7 +2,7 @@
 
 So... you've managed to get to this point in the Bootcamp. Well done! 
 
-At this point you have a strong awareness of the entire software development life cycle (SDLC) and are familiar with the fundamentals of creating both a back-end (using Express, Sequelize, and SQLite via JavaScript in Node - with duly tested procedures) and a front-end (using Vanilla JS, HTML, and CSS and this week, React), and connecting them together.
+At this point you have a strong awareness of the entire software development life cycle (SDLC) and are familiar with the fundamentals of creating both a back-end (using Express, Sequelize, and SQLite via JavaScript in Node - with duly tested procedures using jest) and a front-end (using Vanilla JS, HTML, and CSS and this week, React), and connecting them together.
 
 ----
 ## The Task: Building a Blog
