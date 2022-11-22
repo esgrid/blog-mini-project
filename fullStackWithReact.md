@@ -33,8 +33,9 @@ Of course this can be as complicated as you want to make it, but here I'll menti
 ### Further Extensions
 - You keep going, don't you?
 - Change your DB structure to allow the same author (or authors) to post several posts (yep, one author can have many posts, but one post has only one author). Add an update post function that should be available only for the author of the post.
-- Too simple or you managed it too swiftly? You could do this: posts can have multimple authors and these authors alone can delete the posts and update them.
+- Too simple or you managed it too swiftly? You could do this: posts can have multiple authors and these authors alone can delete the posts and update them.
 - Add a login page to your blog.
-- Deploy it somehow and sell your prodigious new app for millions.
+- Deploy it somehow to the wild web world. 
+- Sell your prodigious new app for millions.
 - Retire and live a joyfully quiet life, hoping to pass away and see the blissfuls shores of eternity.
 
