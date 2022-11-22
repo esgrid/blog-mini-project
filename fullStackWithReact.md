@@ -7,7 +7,7 @@ At this point you have a strong awareness of the entire software development lif
 ----
 ## The Task: Building a Blog
 
-It is hard to believe but once upon a time there was something called a web log (or "blog" for short). In those days, people actually wrote significant writings, either for themselves or for others to read. This was, of course, before more and more instantaneous technologies would violently command your attention (whilst you naively think that you are interested in these things), turning you into (paradoxically) a click-bait thirsty individual... 
+It is hard to believe but once upon a time there was something called a web log (or "blog" for short). In those days, people actually wrote significant writings, either for themselves or for others to read. This was, of course, before more and more instantaneous technologies would violently command your attention (whilst you naively think that you are interested in these things), turning you into (paradoxically) a click-bait thirsty and less attentive individual... 
 
 ### Back to a Blog
 
