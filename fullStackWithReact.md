@@ -37,5 +37,5 @@ Of course this can be as complicated as you want to make it, but here I'll menti
 - Add a login page to your blog.
 - Deploy it somehow to the wild web world. 
 - Sell your prodigious new app for millions.
-- Retire and live a joyfully quiet life, hoping to pass away and see the blissfuls shores of eternity.
+- Retire and live a joyfully quiet life, hoping to pass away and see the blissfull shores of eternity.
 
