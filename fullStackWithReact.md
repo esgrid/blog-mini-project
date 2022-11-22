@@ -15,8 +15,6 @@ It's easy to get sidetracked! The task for today: build yourself a blog.
 
 Of course this can be as complicated as you want to make it, but here I'll mention an MVP and suggest ways to increase the complexity. Remember, MVP is the minimum viable product: you *have to meet this* since it is the minimum you should be able to do.
 
----
-
 ### MVP
 -  Create an application that allows you to add posts to your blog and delete them. Think of it this way: you need a space to type the post, a space to type the author's name, a button (or any other mechanism) to "post" the post and a button (or any other mechanism) to delete the post. Once you "post" your post it should appear somewhere in your page and when you delete them they should dissapear for ever.
 - Use react to create the front end functionality and use fetch requests in order to communicate with your server.
